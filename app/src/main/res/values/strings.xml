@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pobieranie</string>
+    <string name="addressTextView">Adres:</string>
+    <string name="downloadInfoButton">Pobierz informacje</string>
+    <string name="fileSize">Rozmiar pliku:</string>
+    <string name="fileType">Typ pliku:</string>
+    <string name="downloadButton">Pobierz plik</string>
+    <string name="downloaded">Pobrano bajtów:</string>
+    <string name="url">https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.36.tar.xz</string>
+    <string name="messageTitle">Message title</string>
+    <string name="process">Download in process…</string>
+</resources>
